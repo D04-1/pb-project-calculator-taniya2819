@@ -14,3 +14,5 @@
 - Drücken Sie die Taste AC (All Clear), um auf 0 zurückzusetzen.
 - Drücken Sie die Taste DEL (Delete), um die letzte Ziffer zu löschen.
 - Es ist möglich, den Prozentsatz einer Zahl zu finden.
+- Ziehen Sie die Quadratwurzel einer Zahl.
+- Eine Zahl potenzieren.
