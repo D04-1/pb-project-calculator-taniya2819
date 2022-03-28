@@ -20,7 +20,12 @@ class Calculator {
     if (number === "." && this.currentOperand.includes(".")) return;
     this.currentOperand = this.currentOperand.toString() + number.toString();
   }
-
+  //let pie = Math.PI;
+  //console.log(pie);
+  /*piNumber(number) {
+    if (number === "&#928" && this.currentOperand.includes(Math.PI)) return;
+    this.currentOperand = this.currentOperand.toString() + number.toString();
+  }*/
   chooseOperation(operation) {
     if (this.currentOperand === "") return;
     if (this.previousOperand !== "") {
